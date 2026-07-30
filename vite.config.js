@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/MENU-RESTAURANTE/'
+  base: '/menu-restaurante/'
 })
